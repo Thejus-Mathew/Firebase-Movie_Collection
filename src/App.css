@@ -6,3 +6,7 @@
   backdrop-filter: blur(5px);
   text-shadow: 0px 0px 6px black;
 }
+select{
+  top: 0;
+  right: 0;
+}
